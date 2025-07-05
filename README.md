@@ -1,12 +1,14 @@
-# React + Vite
+# Z-News
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple react based news web app.
 
-Currently, two official plugins are available:
+<br><br> 
+This is a web app made with React.js which uses API service from NewsAPI to fetch and display latest news.
+<br> It features 5 major categories namely Technology, Sports, Entertainment, Business and Health apart from the General News.
+<br> With a simple user-friendly UI this small web-app efficiently displays all the top news in a single page with links to the official article for more info.
+<br> The news generated are only from India.
+<br><br> This web app is completely responsive and is supported in all devices. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<br>
+<a href="">Click to view</a>
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
