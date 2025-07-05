@@ -10,5 +10,5 @@ This is a web app made with React.js which uses API service from NewsAPI to fetc
 <br><br> This web app is completely responsive and is supported in all devices. 
 
 <br>
-<a href="">Click to view</a>
+<a href="https://z-news-xi.vercel.app/">Click to view</a>
 
